@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-# --- Configuration de Streamlit ---
+# --- Configuration  Streamlit ---
 st.title("📥 Importa o arquivo de PO aqui.")
 
 # Upload du fichier Excel
