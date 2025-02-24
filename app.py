@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 import requests
+import os
+os.system("pip install openpyxl")
+
 
 # --- 📌 Configuration API Pipefy ---
 PIPEFY_API_URL = "https://api.pipefy.com/graphql"
